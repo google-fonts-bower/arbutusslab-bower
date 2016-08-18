@@ -1,0 +1,17 @@
+{
+    "name": "arbutusslab-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Karolina Lach"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/arbutusslab-bower.git"
+    },
+    "description": "Arbutus Slab font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
